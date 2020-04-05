@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\lab N4\lab N4\bin\Debug\lab N4.exe.config
+C:\Users\Admin\source\repos\lab N4\lab N4\bin\Debug\lab N4.exe
+C:\Users\Admin\source\repos\lab N4\lab N4\bin\Debug\lab N4.pdb
+C:\Users\Admin\source\repos\lab N4\lab N4\obj\Debug\lab N4.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\lab N4\lab N4\obj\Debug\lab_N4.Form1.resources
+C:\Users\Admin\source\repos\lab N4\lab N4\obj\Debug\lab_N4.Properties.Resources.resources
+C:\Users\Admin\source\repos\lab N4\lab N4\obj\Debug\lab N4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\lab N4\lab N4\obj\Debug\lab N4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\lab N4\lab N4\obj\Debug\lab N4.exe
+C:\Users\Admin\source\repos\lab N4\lab N4\obj\Debug\lab N4.pdb
