@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\AndreySoloviev\AndreySoloviev\bin\Debug\AndreySoloviev.exe.config
+C:\Users\Admin\source\repos\AndreySoloviev\AndreySoloviev\bin\Debug\AndreySoloviev.exe
+C:\Users\Admin\source\repos\AndreySoloviev\AndreySoloviev\bin\Debug\AndreySoloviev.pdb
+C:\Users\Admin\source\repos\AndreySoloviev\AndreySoloviev\obj\Debug\AndreySoloviev.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AndreySoloviev\AndreySoloviev\obj\Debug\AndreySoloviev.Form1.resources
+C:\Users\Admin\source\repos\AndreySoloviev\AndreySoloviev\obj\Debug\AndreySoloviev.Properties.Resources.resources
+C:\Users\Admin\source\repos\AndreySoloviev\AndreySoloviev\obj\Debug\AndreySoloviev.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AndreySoloviev\AndreySoloviev\obj\Debug\AndreySoloviev.exe
+C:\Users\Admin\source\repos\AndreySoloviev\AndreySoloviev\obj\Debug\AndreySoloviev.pdb
+C:\Users\Admin\source\repos\AndreySoloviev\AndreySoloviev\obj\Debug\AndreySoloviev.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AndreySoloviev\AndreySoloviev\obj\Debug\AndreySoloviev.Form2.resources
